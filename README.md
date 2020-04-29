@@ -15,3 +15,4 @@ for full explanation, visit this [link](https://docs.opencv.org/3.4/d4/d73/tutor
 
 - [finding center of contour](center-of-contour/)
 - [finding image shapes](find-image-shape/)
+- [finding extreme points in contour](find-extreme-points/)
