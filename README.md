@@ -11,7 +11,8 @@ Contours can be explained simply as a curve joining all the continuous points (a
 ## Contour Docs
 for full explanation, visit this [link](https://docs.opencv.org/3.4/d4/d73/tutorial_py_contours_begin.html) (easy explanation)
 
-### a collection of several projects that involve contour techniques in opencv
+## Project
+a collection of several projects that involve contour techniques in opencv
 
 - [finding center of contour](center-of-contour/)
 - [finding image shapes](find-image-shape/)
