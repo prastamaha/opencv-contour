@@ -17,3 +17,4 @@ a collection of several projects that involve contour techniques in opencv
 - [finding center of contour](center-of-contour/)
 - [finding image shapes](find-image-shape/)
 - [finding extreme points in contour](find-extreme-points/)
+- [sorting contour](sorting-contour/)
